@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "964978982532",
+    "firebase_url": "https://auth-65136.firebaseio.com",
+    "project_id": "auth-65136",
+    "storage_bucket": "auth-65136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964978982532:android:dc45b15ef7ea8b8f",
+        "android_client_info": {
+          "package_name": "com.example.endle.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964978982532-uhvsfncba0icpbmak797po38p98ao3h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.endle.myapplication",
+            "certificate_hash": "041c7d15df66617c5585c8cf3b1b3d43a2aab16d"
+          }
+        },
+        {
+          "client_id": "964978982532-slrtbi4131cln627e6v92s7tm7b657ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBndjkZunQzYqOzGu5wjI-N-wQsliKthE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964978982532-slrtbi4131cln627e6v92s7tm7b657ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

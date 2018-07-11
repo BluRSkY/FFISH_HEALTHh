@@ -1,0 +1,55 @@
+{
+  "medicines": [
+    {
+      "medicineName": "Woods Peppermint Cough Syrup 100ml",
+      "description": "Adults & Children 12 years and above : 10mL (2 tsp)",
+      "imageUrl": "http://www.watsons.com.sg/medias/sys_master/front/zoom/8914238963742.jpg",
+      "price": 6.49,
+      "userRating": 5
+    },
+    {
+      "medicineName": "PANADOL COUGH & COLD 16S",
+      "description": "Panadol Cough & Cold is a non drowsy formula that provides effective and complete 2 in 1 relief of the symptoms of colds, chills and flu with chesty cough. ",
+      "imageUrl": "http://www.watsons.com.sg/medias/sys_master/front/zoom/8852180303902.jpg",
+      "price": 9.80,
+      "userRating": 4
+    },
+    {
+      "medicineName": "ROBITUSSIN PS Syrup (200ml)",
+      "description": "Robitussin PS provides symptomatic relief for congested chests and coughs as well as nasal stuffiness due to the common cold",
+      "imageUrl": "http://www.watsons.com.sg/medias/sys_master/front/zoom/8888505958430.jpg",
+      "price": 16.60,
+      "userRating": 4
+    },
+    {
+      "medicineName": "NIN JIOM",
+      "description": "Nin Jiom Pei Pa Koa is a Chinese herbal remedy renowned worldwide to relieve cough, reduce phlegm, soothe sore throat and restore voice loss.",
+      "imageUrl": "http://www.watsons.com.sg/medias/sys_master/front/zoom/8865748418590.jpg",
+      "price": 6.70,
+      "userRating": 5
+    },
+    {
+      "medicineName": "ICM PHARMA",
+      "description": "ICM Pharma COFEN 100 is non-drowsy, non-addictive, and orange flavoured syrup used for loosening of phlegm and relief of wet cough.",
+      "imageUrl": "http://www.watsons.com.sg/medias/sys_master/front/zoom/8851809042462.jpg",
+      "price": 6.75,
+      "userRating": 5
+    },
+
+    {
+      "medicineName": "EU YAN SANG",
+      "description": "For temporary relief of common cold with coughs and phlegm and throat irritations.",
+      "imageUrl": "http://www.watsons.com.sg/medias/sys_master/front/zoom/8881101307934.jpg",
+      "price": 12.50,
+      "userRating": 5
+    },
+    {
+      "medicineName": "PROSPAN F COUGH SYRUP",
+      "description": "Liquefies mucus and facilitates expulsion of phlegm.",
+      "imageUrl": "http://www.watsons.com.my/medias/sys_master/front/zoom/8956147400734.jpg",
+      "price": 10.25,
+      "userRating": 5
+    }
+  ]
+}
+
